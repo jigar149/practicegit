@@ -7,6 +7,6 @@ function division(a,b,c) {
     }
 
 
-    function subtract(a,b) {
-return a-b;
+    function subtract(a,b,e) {
+return a-b-e;
 }
